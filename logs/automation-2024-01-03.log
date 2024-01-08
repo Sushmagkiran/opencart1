@@ -1,0 +1,56 @@
+23:29:03.244 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:29:03.269 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:29:03.334 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+23:29:05.460 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+23:29:05.484 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+23:29:16.320 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+23:29:16.333 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+23:29:27.768 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+23:29:27.773 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+23:29:38.658 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+23:29:38.662 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+23:29:40.001 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+23:37:05.612 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+23:37:05.616 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+23:37:06.359 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+23:37:06.924 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+23:37:06.924 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+23:37:08.133 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+23:37:08.196 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+23:37:08.196 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed...
+23:37:08.199 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+23:37:08.199 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+23:37:11.163 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+23:37:11.163 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+23:37:11.907 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+23:37:12.326 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+23:37:12.329 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+23:37:13.213 [main] INFO  testCases.TC_002_LoginTest - clicked on login button..
+23:37:13.273 [main] INFO  testCases.TC_002_LoginTest - Login test passed...
+23:37:13.273 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+08:14:41.398 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+08:14:41.405 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+08:14:42.380 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+08:14:43.902 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+08:14:43.903 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+08:14:53.666 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+08:14:53.853 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+08:14:53.853 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed...
+08:14:53.862 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+08:14:53.863 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+08:14:59.136 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+08:14:59.136 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+08:15:00.284 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+08:15:00.783 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+08:15:00.794 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+08:15:01.981 [main] INFO  testCases.TC_002_LoginTest - clicked on login button..
+08:15:02.096 [main] INFO  testCases.TC_002_LoginTest - Login test passed...
+08:15:02.096 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+08:16:13.551 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+08:16:13.564 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+08:16:15.538 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+08:16:16.346 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+08:16:16.348 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+08:16:17.875 [main] INFO  testCases.TC_002_LoginTest - clicked on login button..
+08:16:18.024 [main] INFO  testCases.TC_002_LoginTest - Login test passed...
+08:16:18.032 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
